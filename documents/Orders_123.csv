@@ -1,0 +1,1001 @@
+order_id,sale_date,product_name,price,quantity,sales_person,region
+1,2024-10-16,Wireless Mouse,69.65,9,Diana Lee,South
+2,13/13/2023,Wireless Mouse,1493.59,2.5,Brian Smith,West
+3,2023-02-02,Laptop,219.72,8,Alice Johnson,South
+4,2024-10-27,External SSD,931.65,15,Ethan Brown,North
+5,2023-06-13,USB C Cable,758.45,5,Diana Lee,East
+,2023-04-15,Wireless Mouse,845.14,12,,East
+7,2023-02-14,Docking Station,USD 0,13,Brian Smith,East
+8,2024-10-05,Tablet,1949.71,12,Diana Lee,North
+9,2023-02-16,Monitor,1704.15,3,Diana Lee,North
+10,2024-01-25,USB-C Cable,1005.70,12,Carlos Martinez,East
+11,2023-12-30,Monitor,1479.33,23,Brian Smith,South
+12,2024-06-30,Monitor,372.03,13,Ethan Brown,South
+13,2024-12-02,Webcam,1856.63,25,Alice Johnson,South
+14,2023-02-02,Webcam,891.55,0,Diana Lee,East
+15,2023-08-06,Docking Station,879.46,21,Hannah Moore,South
+16,2023-09-29,Keyboard,-19.99,18,Ethan Brown,West
+17,2024-08-20,Headphones,805.96,5,Hannah Moore,North
+ORD-55,2023-02-18,Wireless Mouse,348.96,2.5,George Wilson,North
+19,2024-01-30,Headphones,1317.02,15,Ethan Brown,North
+20,2024-11-27,Wireless Mouse,1504.54,18,Ethan Brown,East
+21,2023-04-25,USB-C Cable,964.96,15,Alice Johnson,East
+22,2024-05-27,Keyboard,1124.28,4,Ethan Brown,South
+23,2023-06-06,USB C Cable,1681.09,18,Alice Johnson,West Coast
+24,2024-05-15,Laptop,259.43,12,Ethan Brown,South
+25,2023-03-01,Monitor,1933.45,3,Brian Smith,West
+26,2023-03-12,External SSD,1688.35,5,Hannah Moore,South
+27,,External SSD,-19.99,14,Diana Lee,South
+28,2024-12-31,USB-C Cable,886.80,22,Fatima Khan,West
+29,2024-06-13,Docking Station,279.39,8,Brian Smith,East
+30,2024-02-30,Tablet,1225.32,19,Diana Lee,North
+31,2023-03-14,Laptop,515.24,2,Fatima Khan,North
+32,2024-06-10,Monitor,623.47,16,Diana Lee,South
+33,2024-08-07,Tablet,1047.79,16,George Wilson,South
+34,2023-04-07,Wireless Mouse,1454.88,12,George Wilson,West
+35,2024-04-23,Laptop,1486.30,21,Brian Smith,North
+36,2024-02-17,Webcam,1764.29,4,Diana Lee,South
+37,2023-07-14,External SSD,995.22,14,Carlos Martinez,East
+38,2024-04-18,Monitor,1925.75,3,,North
+39,2023-02-21,External SSD,1841.72,3,Diana Lee,South
+40,2024-02-21,Docking Station,0,13,Alice Johnson,South
+41,2024-01-24,Laptop,2167.90,0,Hannah Moore,East
+42,2024-03-09,External SSD,1461.19,16,Carlos Martinez,South
+43,2023-10-31,Monitor,2131.63,19,Alice Johnson,East
+44,2023-02-28,Laptop,1291.43,17,Carlos Martinez,North
+45,2024-06-04,Wireless Mouse,unknown,-1,Brian Smith,South
+46,2024-02-18,Wireless Mouse,2072.39,19,Diana Lee,North
+47,2024-09-26,Wireless Mouse,931.01,19,Fatima Khan,East
+48,,Webcam,536.53,13,Carlos Martinez,East
+49,2024-04-13,Webcam,2044.91,3,Alice Johnson,West
+50,2024-09-28,Tablet,2191.47,3,Diana Lee,East
+51,2023-05-16,Webcam,1939.69,N/A,Fatima Khan,East
+52,2023-06-11,Docking Station,1836.73,23,Ethan Brown,North
+53,2024-11-14,External SSD,669.14,22,Brian Smith,South
+54,2023-09-28,Wireless Mouse,1959.02,24,Carlos Martinez,East
+55,2023-10-16,Tablet,475.23,11,Diana Lee,East
+56,2024-06-01,Docking Station,563.70,2,Brian Smith,West
+,2023-10-11,Laptop,22.75,25,,East
+58,2023-06-15,Docking Station,USD unknown,14,Alice Johnson,North
+59,2023-03-19,Keyboard,1207.11,12,Carlos Martinez,West
+60,2023-05-11,Laptop,N/A,2,Fatima Khan,South
+61,2024-11-29,Monitor,1472.25,12,George Wilson,South
+62,2023-08-31,Keyboard,2148.01,6,George Wilson,North
+63,2023-07-03,Webcam,1724.51,14,Diana Lee,East
+64,2023-06-13,Wireless Mouse,850.85,2,Hannah Moore,South
+65,2023-07-24,Docking Station,779.00,8,Diana Lee,North
+,2024-11-06,Monitor,885.65,9,Brian Smith,East
+67,2023-12-26,External SSD,888.30,18,Fatima Khan,North
+68,2023-04-29,USB-C Cable,405.17,9,Alice Johnson,North
+69,2024-09-02,Headphones,770.33,11,George Wilson,North
+70,2024-01-30,Tablet,430.32,2,George Wilson,North
+71,2024-06-16,External SSD,1515.78,24,Diana Lee,East
+72,2024-03-17,Wireless Mouse,2088.29,11,Fatima Khan,North
+73,2023-11-04,External SSD,690.79,14,Fatima Khan,West
+74,2024-12-14,USB-C Cable,1226.39,7,George Wilson,West
+75,2024-11-24,Keyboard,1359.90,10,George Wilson,North
+76,2023-11-08,USB-C Cable,474.25,19,Fatima Khan,West
+77,2024-03-28,Docking Station,1491.25,17,Hannah Moore,South
+78,2024-11-05,Wireless Mouse,635.07,22,Fatima Khan,North
+79,2023-08-29,USB-C Cable,505.84,7,Carlos Martinez,North
+80,2023-02-17,Monitor,2164.90,20,Brian Smith,West
+81,2024-02-29,Tablet,439.84,23,George Wilson,West
+82,2024-02-14,Monitor,337.44,23,Alice Johnson,North
+83,2024-03-11,Monitor,N/A,23,Carlos M.,North
+84,2024-02-30,Monitor,2019.67,4,Hannah Moore,E
+85,2024-04-20,External SSD,2173.55,20,Fatima Khan,West
+86,2024-09-19,External SSD,947.43,18,Hannah Moore,NORTH
+87,2024-05-01,Docking Station,581.33,8,Ethan Brown,West
+88,2024-10-03,Monitor,615.00,3,Ethan Brown,South
+89,2023-10-06,Webcam,713.57,18,Brian Smith,South
+90,2023-06-04,Monitor,851.93,5,Diana Lee,North
+91,2024-02-29,Headphones,737.98,15,George Wilson,North
+92,2023-07-31,Headphones,866.01,25,Alice Johnson,West
+93,2024-05-03,Laptop,2074.89,10,George Wilson,West
+94,2024-07-05,External SSD,1762.71,-1,,South
+95,2023-10-07,Headphones,1076.13,13,Fatima Khan,West
+96,2023-06-19,Docking Station,2024.20,20,Alice Johnson,West
+97,2024-08-29,Tablet,1463.65,3,Carlos M.,South
+98,2024-04-17,Keyboard,124.87,13,Fatima Khan,South
+99,2024-04-10,Webcam,752.44,13,Ethan Brown,West
+100,2023-09-16,Wireless Mouse,1042.62,24,Alice Johnson,East
+101,2023-08-18,Wireless Mouse,1721.99,21,Alice Johnson,North
+102,02/13/2024,Monitor,1848.72,20,Carlos Martinez,South
+103,2023-05-10,Laptoop,1477.77,19,Carlos M.,West
+104,2024-12-17,USB-C Cable,1690.67,6,Brian Smith,South
+105,14-11-2023,Wireless Mouse,1279.43,10,George Wilson,West
+106,2023-07-23,Wireless Mouse,1308.73,21,Diana Lee,North
+107,2024-12-14,USB-C Cable,1872.89,20,Brian Smith,North
+108,2023-12-22,Moniter,951.01,five,Brian Smith,East
+109,2023-01-13,Headphones,1811.79,4,George Wilson,East
+110,2024-10-12,Docking Station,1560.47,14,Carlos Martinez,East
+111,not_a_date,External SSD,1707.59,15,George Wilson,East
+112,2023-11-27,Monitor,1830.15,3,Ethan Brown,West
+113,2023-09-07,Docking Station,1260.12,22,George Wilson,East
+114,2023-01-30,Docking Station,1874.33,6,Hannah Moore,South
+115,2023-12-30,USB-C Cable,758.64,20,Ethan Brown,North
+116,2024-06-13,Monitor,202.06,24,George Wilson,West
+117,2024-07-22,Laptoop,1523.98,21,Hannah Moore,West
+118,2023-01-18,Wireless Mouse,657.90,13,Diana Lee,East
+119,2024-11-10,Tablet,821.31,18,Fatima Khan,West
+120,2024-07-17,Webcam,783.71,15,Ethan Brown,East
+121,2023-09-15,Monitor,278.63,7,Fatima Khan,North
+122,2024-07-02,Keyboard,433.52,3.0,Diana-Lee,East
+123,2024-08-26,External SSD,1318.99,4,Diana Lee,East
+124,2023-08-21,Webcam,N/A,1,Carlos Martinez,E
+125,2023-02-16,Laptop,1224.09,23,Carlos Martinez,West
+126,06/12/2024,Laptop,1269.33,16,Hannah Moore,West
+57,2023-12-15,Keyboard,2124.61,9,,North
+128,13/13/2023,Headphones,1089.47,19,Alice Johnson,South
+129,2023-06-02,Tablet,2088.84,3,Diana Lee,North
+130,2024-07-25,Headphones,1339.80,20,Diana Lee,West
+131,2024-04-06,Docking Station,664.72,19,George Wilson,East
+132,2024-08-05,Tablet,USD $146.60,24,Brian Smith,South
+133,,Monitor,593.25,ten,Carlos Martinez,South
+134,2023-06-27,External SSD,179.02,1,George Wilson,West
+135,2024-12-06,Tablet,1041.76,2,Diana Lee,East
+136,2024-12-24,USB-C Cable,1551.03,15,Brian Smith,South
+137,2023-09-28,Tablet,1459.68,-1,George Wilson,North
+138,2024-07-11,Monitor,1430.08,9,Carlos Martinez,North
+139,2023-03-03,Keyboard,1746.89,20,Ethan Brown,West
+140,2023-05-08,Docking Station,1519.76,23,George Wilson,East
+141,2024-05-27,External SSD,1093.94,3,Alice Johnson,West
+142,2023-11-27,Tablet,562.05,3,Diana Lee,North
+143,2024-11-19,USB-C Cable,1274.10,25,Carlos Martinez,West
+144,not_a_date,Docking Station,2016.62,6,,West
+145,2023-04-04,Docking Station,775.29,11,Diana-Lee,North
+146,2023-06-14,Webcam,914.44,16,Ethan Brown,West
+147,2024-07-17,Moniter,unknown,11,Ethan Brown,East
+148,2023-04-29,Headphones,1904.83,1,Hannah Moore,West
+149,2023-02-25,Monitor,1147.79,20,Hannah Moore,West
+150,2023-02-22,Monitor,USD 598.52,5,Ethan Brown,West
+151,2024-12-16,Docking Station,280.32,21,Diana Lee,South
+152,2023-11-15,External SSD,$44.88,14,Brian Smith,South
+153,2023-04-27,Docking Station,2084.33,21,Carlos Martinez,West
+154,2023-10-26,External SSD,1556.32,14,Hannah Moore,West
+155,2023-09-07,Docking Station,1219.51,13,Diana Lee,South
+156,2023-03-13,USB-C Cable,1703.30,14,Fatima Khan,East
+157,13/13/2023,USB-C Cable,1601.42,0,Hannah Moore,South
+158,2024-04-02,External SSD,1073.29,11,George Wilson,West
+159,2023-11-26,Keybord,2157.99,8,George Wilson,South
+one_thousand,2024-02-25,Laptop,710.22,0,George Wilson,West
+123,2024-11-10,Keyboard,1097.29,2,Carlos Martinez,East
+ORD-55,2023-04-13,Docking Station,232.87,0,Alice Johnson,South
+163,2024-02-24,Keyboard,178.50,9,Fatima Khan,West
+411,2024-10-27,Wireless Mouse,1876.11,-1,George Wilson,East
+165,2024-10-03,Docking Station,1921.16,2,Brian Smith,South
+166,2024-10-08,USB-C Cable,2194.38,24,Brian Smith,West
+167,2023-04-11,Wireless Mouse,984.44,23,Ethan Brown,North
+168,2023-02-17,Webcam,USD 1754.57,10,Fatima Khan,East
+325,2024-03-17,Keyboard,548.57,14,Carlos Martinez,South
+170,29-08-2023,Wireless Mouse,1346.74,13,Diana Lee,West
+171,2024-08-20,Keyboard,522.33,21,Ethan Brown,West
+172,2023-09-19,Laptop,1979.12,15,Ethan Brown,South
+173,2023-03-17,Docking Station,2080.34,19,Ethan Brown,West
+174,2024-12-07,USB-C Cable,1013.19,10,Diana Lee,West
+175,2024-05-09,Wireless Mouse,533.29,19,Fatima Khan,East
+176,2024-12-17,USB-C Cable,62.94,22,George Wilson,NORTH
+177,2023-01-09,Tablet,-19.99,25,Carlos M.,West
+178,2023-10-21,Monitor,1341.44,12,Diana Lee,South
+179,2024-09-27,USB-C Cable,1495.92,24,Carlos Martinez,North
+180,2024-10-04,Laptop,690.02,15,Alice Johnson,East
+181,2023-05-15,Wireless Mouse,2002.54,11,George Wilson,South
+A102,2023-07-25,Keyboard,1733.53,12,Ethan Brown,South
+183,2023-09-21,Docking Station,2128.73,10,Fatima Khan,North
+184,2024-04-24,Wireless Mouse,322.55,8,George Wilson,East
+185,2023-04-03,Headphones,45.41,18,Brian Smith,West
+186,2024-01-13,USB-C Cable,1292.26,21,Fatima Khan,North
+A102,2024-11-22,Monitor,1045.18,20,Carlos M.,South
+188,2024-10-25,Wireless Mouse,1403.36,15,Ethan Brown,West
+189,2023-04-30,Keyboard,114.08,2,Ethan Brown,West
+190,2023-04-29,Wireless Mouse,528.04,18,Carlos Martinez,West
+191,2024-04-09,Webcam,1480.01,24,George Wilson,South
+192,2024-02-29,Wireless Mouse,unknown,20,George Wilson,East
+193,2023-02-03,Webcam,489.73,15,Diana Lee,East
+194,10-07-2023,Webcam,1204.66,21,Fatima Khan,North
+195,2024-02-12,USB-C Cable,429.73,five,A. Johnson,North
+196,05/23/2024,Monitor,1417.12,20,Diana-Lee,North
+197,2023-12-08,Monitor,2175.57,19,Diana Lee,North
+198,2024-07-21,Monitor,1296.25,8,Fatima Khan,South
+199,2024-09-02,Laptop,$0,5,Carlos Martinez,East
+200,2023-06-28,Wireless Mouse,1459.41,1,Carlos Martinez,North
+201,2024-01-02,Monitor,1301.64,1,Carlos Martinez,East
+,2023-02-23,Keyboard,1635.65,-1,Brian Smith,North
+,2024-05-02,Docking Station,1714.97,17,Brian Smith,West
+A102,2024-05-30,Monitor,2080.73,ten,Ethan Brown,West
+one_thousand,2024-10-20,Laptop,147.90,16,George Wilson,West
+206,2024-12-03,Wireless Mouse,1086.24,15,Brian Smith,North
+207,2023-11-26,Tablet,-19.99,5,Ethan Brown,East
+208,2024-01-26,Tablet,1174.27,15,George Wilson,North
+209,2024-12-19,Wireless Mouse,1878.35,21,,West
+210,2024-04-07,Monitor,0,15,George Wilson,West
+211,2023-04-08,Webcam,947.48,22,Ethan Brown,East
+84,2023-06-06,Docking Station,161.69,3,Brian Smith,West
+213,2023-04-09,Webcam,1788.72,18,Alice Johnson,East
+214,2024-11-17,Wireless Mouse,912.62,22,George Wilson,North
+215,2023-10-22,Tablet,697.70,4,Diana Lee,South
+216,2024-11-03,Docking Station,504.98,4,Fatima Khan,East
+217,2023-04-28,USB-C Cable,1269.41,14,Alice Johnson,East
+297,2023-01-30,Keyboard,612.10,3.0,Ethan Brown,East
+219,2023-12-26,Laptop,411.37,5,George Wilson,North
+220,not_a_date,Laptop,0,17,Diana Lee,West
+,2024-03-05,Docking Station,-19.99,12,Ethan Brown,East
+222,14-06-2023,Tablet,200.63,3.0,Carlos Martinez,South
+223,2024-09-24,Laptop,1487.62,9,Hannah Moore,West
+224,2024-05-12,Tablet,980.87,9,Diana Lee,North
+225,2023-12-20,Headphones,257.29,22,Hannah Moore,East
+226,28-10-2023,Monitor,unknown,20,Alice Johnson,North
+227,2023-07-29,USB-C Cable,2080.53,25,Carlos M.,East
+,2023-10-24,Webcam,277.17,2.5,George Wilson,South
+229,,Headphones,1178.69,N/A,Fatima Khan,North
+230,2024-02-11,Laptop,968.14,15,Brian Smith,East
+231,2024-08-12,Headphones,1267.88,23,George Wilson,East
+232,2023-04-28,Headphones,60.57,11,Carlos Martinez,West
+233,2024-12-07,Webcam,0,4,Diana Lee,West
+234,2024-08-26,Headphones,1159.86,13,Ethan Brown,East
+235,2023-08-15,Webcam,1717.37,3,Brian Smith,South
+236,2023-12-24,Webcam,1604.32,21,Carlos Martinez,South
+237,2023-04-16,USB C Cable,574.29,6,Carlos Martinez,North
+238,2023-07-01,Docking Station,1028.74,19,Hannah Moore,East
+239,2024-10-04,Webcam,344.84,2.5,Carlos M.,West
+240,2024-10-08,USB-C Cable,1754.98,19,Alice Johnson,East
+241,2024-06-03,Wireless Mouse,693.24,15,Alice Johnson,North
+242,2024-01-13,USB-C Cable,182.66,3,George Wilson,West
+243,2024-08-17,External SSD,2100.00,24,Alice Johnson,West
+244,2024-08-08,Monitor,717.54,16,Carlos Martinez,North
+245,2024-04-06,Wireless Mouse,1786.96,11,Brian Smith,South
+246,2023-02-10,Monitor,1561.15,15,,East
+247,2024-01-17,USB-C Cable,861.51,25,Fatima Khan,North
+248,2024-10-08,Webcam,159.02,4,George Wilson,East
+,2023-09-16,Tablet,1923.12,11,,South
+250,2023-12-25,USB-C Cable,2129.42,23,George Wilson,South
+251,2024-09-01,Wireless Mouse,691.44,13,Fatima Khan,South
+252,2024-11-17,External SSD,219.19,22,George Wilson,East
+253,2023-01-19,Webcam,$689.87,7,Fatima Khan,
+605,2023-07-16,Monitor,2199.95,5,Brian Smith,East
+255,2023-04-14,External SSD,1699.36,24,Alice Johnson,East
+256,2024-09-24,Keyboard,1319.98,5,Carlos Martinez,South
+257,2024-12-10,Tablet,1782.76,6,Hannah Moore,North
+258,2024-02-25,Webcam,1492.85,8,Hannah Moore,East
+259,2024-04-04,Monitor,1181.81,10,Hannah Moore,South
+260,2024-01-12,Tablet,2166.00,15,Ethan Brown,West
+261,2024-05-29,USB C Cable,929.77,6,Diana Lee,South
+262,2023-09-14,Laptop,1415.98,12,Brian Smith,North
+263,2023-10-19,Wireless Mouse,1682.41,2.5,,South
+264,2024-03-23,Wireless Mouse,2082.91,8,Hannah Moore,East
+265,2023-01-28,Headphones,131.37,17,Fatima Khan,South
+266,2024-01-31,Wireless Mouse,834.18,1,Fatima Khan,North
+267,2024-10-27,Webcam,1744.17,5,Alice Johnson,East
+268,2024-04-28,Keyboard,1673.07,16,Hannah Moore,North
+269,2023-03-23,Laptop,574.19,5,George Wilson,North
+270,2023-10-23,Monitor,673.02,five,Diana Lee,West
+271,2024-10-16,Tablet,1013.79,4,Hannah Moore,North
+272,2024-10-09,External SSD,1271.48,23,Carlos Martinez,East
+273,2024-03-15,Laptop,1358.36,8,George Wilson,South
+274,2024-11-11,Wireless Mouse,1158.81,12,Brian Smith,North
+275,2024-02-04,Docking Station,110.12,13,Fatima Khan,East
+276,2023-01-17,Webcam,1737.92,12,Diana Lee,North
+277,2024-08-18,Webcam,306.50,12,Fatima Khan,South
+278,2024-12-02,Docking Station,2158.09,five,Carlos Martinez,South
+678,2023-03-06,Docking Station,USD 95.81,7,Alice Johnson,South
+280,2023-02-12,Webcam,2054.42,17,George Wilson,West
+281,2023-09-17,Laptop,1660.94,7,,East
+282,2023-02-18,Webcam,611.98,12,George Wilson,West
+ORD-55,2024-03-26,Headphones,755.80,N/A,Hannah Moore,West
+284,2024-01-12,External SSD,597.78,3,George Wilson,North
+285,2024-03-16,Tablet,2189.29,6,Ethan Brown,East
+286,2023-04-16,Wireless Mouse,731.50,10,Ethan Brown,West
+287,2024-09-09,Headphones,379.12,15,Fatima Khan,West
+288,2023-02-13,Webcam,1358.45,14,Ethan Brown,North
+289,2023-03-18,Headphones,808.83,24,Carlos Martinez,North
+290,2023-05-27,Tablet,1496.62,15,Alice Johnson,South
+291,2023-03-10,Monitor,1716.06,12,Fatima Khan,West
+292,2024-08-03,Laptop,1337.13,22,A. Johnson,NORTH
+293,2024-01-16,Docking Station,1682.34,19,,
+294,2024-02-12,Webcam,1434.29,8,Brian Smith,North
+295,2023-07-10,Docking Station,1146.27,18,Brian Smith,East
+296,2023-09-24,Docking Station,483.84,20,Ethan Brown,West
+297,2023-07-24,Wireless Mouse,311.57,3,Hannah Moore,South
+298,2024-12-31,Docking Station,2194.02,22,Fatima Khan,East
+299,2024-12-27,Wireless Mouse,1216.74,10,Ethan Brown,South
+300,2024-12-29,Keyboard,1749.23,17,Diana Lee,
+301,2023-07-25,Keyboard,0,16,Alice Johnson,East
+302,2024-07-21,Tablet,821.07,18,Carlos Martinez,North
+303,2023-03-09,USB-C Cable,884.98,23,Hannah Moore,West
+304,2024-02-24,Tablet,176.15,11,Brian Smith,West
+305,2024-04-22,External SSD,767.76,25,Carlos Martinez,South
+306,2024-03-19,External SSD,2004.91,2,Brian Smith,South
+307,2023-11-08,Keyboard,368.90,23,Diana Lee,East
+308,2024-06-15,USB-C Cable,1863.37,9,,East
+309,2023-05-09,USB-C Cable,1357.53,3,Carlos Martinez,South
+310,2023-06-25,Tablet,1589.58,20,Fatima Khan,North
+311,2023-01-30,Wireless Mouse,USD 114.33,21,Ethan Brown,South
+312,2024-08-08,Headphones,1365.57,1,Hannah Moore,East
+313,2024-10-19,USB-C Cable,1070.23,22,George Wilson,East
+314,2024-04-09,Wireless Mouse,1519.62,6,Hannah Moore,West
+315,2024-05-10,USB C Cable,460.79,20,Carlos Martinez,East
+316,2023-11-23,Webcam,2146.19,5,Fatima Khan,North
+317,2023-11-23,Monitor,1034.24,9,Hannah Moore,South
+318,2023-05-25,Wireless Mouse,125.57,13,George Wilson,South
+319,2023-06-13,Webcam,free,24,Diana-Lee,South
+320,2023-06-13,Docking Station,2191.19,15,Hannah Moore,East
+321,2024-05-24,Laptop,211.76,13,Hannah Moore,South
+322,2023-08-09,Tablet,free,2,Ethan Brown,West
+323,2024-09-03,Docking Station,639.36,1,Brian Smith,West
+324,2023-05-18,USB-C Cable,1604.61,25,George Wilson,East
+325,2023-02-16,Headphones,126.78,18,Diana Lee,East
+326,2024-07-20,USB-C Cable,175.67,17,Hannah Moore,East
+327,2024-09-30,Keybord,274.60,4,George Wilson,East
+328,2023-12-14,External SSD,2066.60,25,Carlos Martinez,South
+329,not_a_date,External SSD,892.03,2,,North
+330,2023-05-21,Webcam,1771.67,17,Hannah Moore,South
+331,not_a_date,External SSD,320.42,20,Fatima Khan,
+332,2024-02-07,Tablet,1630.41,10,Fatima Khan,West
+333,2024-12-26,Tablet,670.04,1,Fatima Khan,East
+334,2024-11-20,Wireless Mouse,2156.08,19,Ethan Brown,North
+335,2024-09-03,Docking Station,595.18,21,Diana Lee,North
+336,2024-08-20,Docking Station,387.57,21,George Wilson,South
+337,2024-11-28,Monitor,83.98,0,Brian Smith,South
+338,2023-01-20,Docking Station,700.42,5,George Wilson,South
+339,2024-02-25,External SSD,1708.31,16,Alice Johnson,South
+340,2024-06-15,Monitor,1240.54,22,Hannah Moore,West
+341,2023-11-18,Keyboard,1019.36,18,Fatima Khan,East
+342,2024-11-23,USB-C Cable,1348.02,7,Diana Lee,East
+,2024-07-25,USB-C Cable,506.33,10,Ethan Brown,South
+344,2024-12-07,Docking Station,707.73,12,Ethan Brown,East
+345,2023-05-05,Tablet,1493.42,13,George Wilson,East
+346,2023-05-30,USB-C Cable,106.92,23,Brian Smith,East
+347,2024-03-28,USB-C Cable,0,7,Diana Lee,East
+348,2024-07-29,USB-C Cable,314.94,20,Diana Lee,South
+349,2023-02-21,External SSD,508.09,8,Alice Johnson,North
+350,2024-02-28,Webcam,1582.43,4,Carlos Martinez,North
+351,2024-07-17,Keyboard,904.09,16,Hannah Moore,South
+352,2023-10-22,Webcam,638.63,2,Brian Smith,South
+353,2024-07-01,Laptop,2010.41,6,George Wilson,South
+354,2023-02-07,Headphones,1736.69,6,Ethan Brown,North
+355,2023-01-10,USB-C Cable,1256.00,4,Fatima Khan,NORTH
+356,13/13/2023,External SSD,1160.64,ten,Hannah Moore,East
+357,2023-07-17,Wireless Mouse,737.54,24,Hannah Moore,East
+358,2023-07-10,Laptop,1624.51,10,Diana Lee,NORTH
+359,2024-09-17,Laptoop,1821.97,17,Fatima Khan,North
+360,2024-02-15,Wireless Mouse,418.75,5,Hannah Moore,East
+361,2023-09-12,Laptop,N/A,8,Hannah Moore,East
+362,2023-12-04,USB-C Cable,1287.68,19,Alice Johnson,East
+363,2024-10-31,Webcam,1528.70,2,Brian Smith,West
+364,2023-11-11,Keyboard,900.84,17,Ethan Brown,North
+365,2024-10-16,USB-C Cable,818.08,8,Diana Lee,West Coast
+366,2024-05-04,Keyboard,0,20,,West
+367,2024-12-19,External SSD,2009.46,2.5,Diana Lee,South
+368,2024-11-27,Tablet,1922.80,3,Hannah Moore,East
+369,2023-03-21,Tablet,260.18,18,Diana Lee,South
+370,2023-06-18,Webcam,1882.05,15,Brian Smith,South
+371,2024-08-20,Docking Station,213.71,17,Hannah Moore,North
+372,04-06-2023,Keyboard,1136.45,15,Alice Johnson,West
+373,2024-11-19,USB-C Cable,1595.37,13,Ethan Brown,North
+374,2023-08-12,Laptoop,174.57,0,Fatima Khan,North
+A102,2024-07-08,Laptop,-19.99,3,Hannah Moore,North
+376,2023-10-21,Headphones,408.26,5,George Wilson,East
+377,2024-01-27,Docking Station,1915.12,13,George Wilson,North
+378,2024-11-30,External SSD,305.58,12,Brian Smith,South
+379,2024-07-04,Headphones,1170.52,24,Diana Lee,North
+380,2023-01-24,USB-C Cable,1026.66,24,George Wilson,West
+,2023-08-24,Monitor,1021.47,5,Ethan Brown,South
+260,2023-04-26,Laptop,1783.71,14,Alice Johnson,South
+383,2023-07-31,Wireless Mouse,235.46,2,Hannah Moore,North
+420,2023-09-08,Laptop,893.95,8,Diana Lee,North
+385,2023-05-24,External SSD,2185.76,8,Fatima Khan,East
+386,2023-08-31,USB-C Cable,1929.62,N/A,Diana Lee,West
+387,2023-11-04,USB-C Cable,148.19,19,Carlos Martinez,West
+388,2024-07-23,Docking Station,117.44,12,George Wilson,East
+389,2024-12-14,Headphones,907.05,10,George Wilson,South
+390,2024-07-04,Docking Station,541.52,8,Ethan Brown,South
+391,2024-04-19,Laptop,1243.81,14,Carlos Martinez,West
+392,2023-09-06,USB-C Cable,459.29,21,Brian Smith,West
+393,2024-01-15,Wireless Mouse,1185.36,7,Alice Johnson,East
+394,2024-01-22,Tablet,1332.38,3,Diana Lee,South
+395,2024-05-05,Monitor,1914.80,11,Diana-Lee,
+396,2023-08-05,Monitor,$2117.14,0,Hannah Moore,South
+397,2024-12-13,Tablet,1552.73,13,Diana Lee,East
+398,2023-10-17,Headphones,1033.76,21,Fatima Khan,East
+399,2023-09-25,Laptoop,1135.50,16,Hannah Moore,North
+400,2024-04-25,Webcam,2012.81,12,Fatima Khan,West
+401,2023-02-16,Tablet,1903.03,24,Carlos Martinez,North
+402,2023-09-25,External SSD,2057.45,19,George Wilson,East
+403,2023-06-06,Monitor,735.76,13,Diana Lee,West
+404,2024-07-17,Webcam,577.26,16,Hannah Moore,West
+,2023-06-22,Webcam,384.85,24,Hannah Moore,South
+406,2024-07-09,Laptop,1159.82,3,Alice Johnson,North
+,2024-02-27,Keybord,1855.96,8,Brian Smith,South
+408,2023-01-10,Monitor,1120.03,12,Alice Johnson,West
+409,2024-11-06,Docking Station,49.37,18,George Wilson,North
+410,2023-01-18,External SSD,1592.99,18,A. Johnson,North
+411,2024-05-29,Headphones,1776.48,6,Brian Smith,North
+412,13/13/2023,Keyboard,541.52,20,Ethan Brown,East
+ORD-55,2023-10-01,Headphones,187.66,13,Diana-Lee,South
+414,2024-12-14,Monitor,670.44,3,Alice Johnson,North
+415,2024-02-20,Headphones,839.12,16,Alice Johnson,North
+416,2024-12-20,Keyboard,195.67,14,Fatima Khan,North
+417,2024-06-24,Laptop,unknown,23,,East
+418,2023-02-17,Laptoop,1510.48,9,Alice Johnson,South
+419,2023-11-19,Laptop,2115.81,19,Carlos Martinez,West
+ORD-55,2023-03-20,USB-C Cable,369.95,8,George Wilson,East
+421,2024-01-29,Keyboard,1742.24,23,Brian Smith,East
+422,2023-02-24,Wireless Mouse,970.04,3,Fatima Khan,West
+423,2023-12-01,Laptop,1400.56,15,Hannah Moore,South
+424,2023-12-31,External SSD,2071.40,14,Carlos Martinez,West
+one_thousand,2023-03-29,Tablet,660.40,8,Brian Smith,North
+426,2023-10-02,Keyboard,845.30,21,Carlos Martinez,West
+427,2023-11-21,Webcam,247.81,1,Ethan Brown,West
+428,2024-01-04,USB-C Cable,238.38,3,Carlos Martinez,West
+,2024-04-04,Laptoop,1227.11,14,Brian Smith,North
+430,09/06/2024,Webcam,1225.97,20,Fatima Khan,NORTH
+431,2023-01-13,USB-C Cable,919.18,25,Brian Smith,South
+432,2024-08-08,External SSD,385.54,13,Carlos Martinez,South
+265,2023-10-03,USB-C Cable,601.47,5,Brian Smith,South
+68,2024-02-30,USB-C Cable,935.11,16,Brian Smith,East
+435,2023-09-15,Monitor,1590.17,16,Diana Lee,West
+436,2023-04-20,Keyboard,680.68,13,Fatima Khan,West
+437,2023-12-04,Docking Station,746.40,21,Carlos Martinez,East
+438,2023-11-25,Tablet,2084.80,7,Hannah Moore,East
+439,2023-07-01,Headphones,2131.66,10,Hannah Moore,South
+440,2023-11-30,Headphones,627.46,13,Fatima Khan,North
+441,2024-07-31,Monitor,1309.02,18,Carlos Martinez,North
+442,2024-04-17,Monitor,973.02,10,Brian Smith,West
+443,2024-11-20,Docking Station,319.11,10,Diana Lee,East
+A102,2024-11-05,Keyboard,1577.79,13,Brian Smith,West
+445,2024-09-04,Docking Station,1287.20,18,George Wilson,North
+446,2024-01-04,External SSD,1312.50,3,Brian Smith,South
+447,2024-11-04,Webcam,378.45,20,Alice Johnson,West
+448,2023-12-06,Headphones,246.49,4,Ethan Brown,South
+449,2024-06-06,External SSD,$1234.22,2.5,Diana Lee,West
+450,2024-01-19,Headphones,1026.79,22,Carlos Martinez,East
+451,2023-01-26,Docking Station,243.44,14,Brian Smith,North
+452,2023-05-26,Webcam,696.48,15,Diana Lee,West
+453,2023-12-23,Docking Station,228.31,24,Hannah Moore,East
+454,2023-03-10,USB-C Cable,112.63,23,Brian Smith,North
+455,2023-12-18,Wireless Mouse,-19.99,five,Diana Lee,South
+456,2024-07-19,Keyboard,738.21,14,Hannah Moore,South
+457,2024-02-19,Keyboard,422.26,22,George Wilson,West
+458,2023-01-30,Tablet,1944.57,15,George Wilson,West
+459,2023-01-05,Monitor,464.64,25,Brian Smith,North
+460,2024-07-03,Keyboard,814.26,7,Hannah Moore,North
+461,2023-09-26,Docking Station,1168.06,21,Fatima Khan,West
+462,2024-09-17,Headphones,1297.61,12,Fatima Khan,West
+463,2024-09-24,Keyboard,1793.02,23,Ethan Brown,North
+464,2024-11-19,Keyboard,699.31,8,Ethan Brown,North
+465,2023-07-07,Webcam,1530.16,17,George Wilson,West
+466,2024-09-02,Keyboard,1270.95,14,Carlos Martinez,West
+467,2024-10-12,External SSD,1530.15,21,Carlos Martinez,South
+468,13/13/2023,USB-C Cable,321.55,11,Hannah Moore,North
+469,2024-01-03,Laptop,1073.87,7,,West
+470,2024-02-23,Docking Station,923.15,15,Hannah Moore,South
+,2023-03-26,Tablet,82.43,0,Diana Lee,East
+472,2023-02-03,USB-C Cable,506.28,10,Carlos Martinez,West
+473,2024-08-02,Docking Station,1216.15,4,Brian Smith,East
+,2024-07-10,Webcam,1199.36,25,,West
+475,2024-07-13,Monitor,2177.66,4,Diana Lee,East
+476,2023-02-03,Docking Station,589.25,3,Hannah Moore,North
+477,2023-08-31,Monitor,1786.39,19,Fatima Khan,West
+478,2023-06-19,Tablet,319.23,7,Diana Lee,North
+479,2024-08-06,Webcam,1178.03,20,Carlos Martinez,East
+480,2024-12-21,USB-C Cable,647.19,9,Brian Smith,South
+481,2024-02-26,Laptop,2183.58,21,Carlos Martinez,South
+482,2023-09-13,Keyboard,1569.40,8,George Wilson,West
+483,2023-05-26,Tablet,-19.99,21,George Wilson,West
+484,2024-04-07,Wireless Mouse,1399.48,25,Brian Smith,West
+485,2024-06-11,USB-C Cable,1532.93,12,Hannah Moore,West
+486,2023-12-02,Tablet,20.40,25,Brian Smith,West
+487,2024-10-12,Webcam,1872.48,18,George Wilson,South
+488,2024-03-15,Monitor,1095.95,11,Ethan Brown,East
+489,2024-07-14,Tablet,300.35,16,Fatima Khan,North
+490,2023-02-17,Wireless Mouse,1383.20,15,Alice Johnson,North
+491,2023-06-11,Docking Station,1012.49,14,Diana Lee,South
+492,2024-10-27,USB-C Cable,362.37,9,Brian Smith,NORTH
+493,,Wireless Mouse,827.48,21,Carlos Martinez,North
+494,2024-02-10,USB-C Cable,1601.28,25,Diana Lee,West
+495,2024-11-02,Wireless Mouse,1552.58,1,Diana Lee,West
+496,2023-03-21,Keyboard,1312.19,17,Hannah Moore,North
+497,2023-01-09,Webcam,1800.38,14,Carlos Martinez,West
+498,2023-03-14,Monitor,852.01,24,Brian Smith,North
+499,2023-11-17,Webcam,1939.96,5,George Wilson,South
+500,2024-10-18,Keyboard,164.48,19,Alice Johnson,South
+one_thousand,2024-02-30,Webcam,1593.51,21,Carlos Martinez,West
+502,2024-09-22,Docking Station,1894.02,3,Brian Smith,South
+503,2023-05-07,Tablet,1610.07,12,George Wilson,East
+504,2023-05-24,Monitor,620.17,3,Diana Lee,East
+505,2024-12-08,Keybord,1867.64,22,Ethan Brown,South
+506,2024-06-14,Tablet,1128.31,-1,George Wilson,East
+507,2024-10-23,Laptop,1727.61,8,Hannah Moore,West
+508,2023-04-26,Monitor,1106.59,20,Brian Smith,North
+509,2024-01-05,USB C Cable,303.38,19,George Wilson,East
+510,2024-07-13,Keyboard,1681.56,25,Brian Smith,North
+511,2024-08-24,Wireless Mouse,45.14,7,Alice Johnson,North
+512,2024-02-12,External SSD,640.98,23,George Wilson,West
+513,2024-12-19,Headphones,195.10,18,Carlos Martinez,East
+514,2023-03-27,USB-C Cable,187.66,7,Carlos Martinez,East
+515,2024-02-05,Tablet,1400.93,21,Brian Smith,East
+516,2024-12-16,Headphones,1609.96,8,Alice Johnson,South
+517,2023-03-30,Headphones,268.43,20,Diana-Lee,East
+518,2024-11-13,Keyboard,275.98,23,Carlos Martinez,North
+519,2023-06-17,Docking Station,2097.34,17,Ethan Brown,South
+520,2024-01-16,Keyboard,1653.26,9,Brian Smith,North
+521,2023-12-10,Headphones,609.28,3,Ethan Brown,North
+522,2024-05-23,Docking Station,1131.06,2,Hannah Moore,South
+523,2024-01-12,Keyboard,572.43,4,Brian Smith,South
+,10/18/2023,Laptop,111.22,1,Diana Lee,North
+525,2024-04-28,Webcam,851.81,5,Carlos Martinez,North
+526,2024-07-20,Headphones,505.57,2.5,George Wilson,East
+one_thousand,not_a_date,Wireless Mouse,1263.81,4,Alice Johnson,South
+528,2023-08-17,External SSD,N/A,13,Brian Smith,West
+529,2023-10-17,USB-C Cable,730.15,18,Hannah Moore,North
+530,2024-01-13,Monitor,652.14,10,Diana Lee,West
+531,2024-01-13,Tablet,2138.51,25,Diana Lee,South
+532,01/24/2023,Laptop,0,1,Diana Lee,East
+533,2024-10-13,Laptop,2092.91,1,George Wilson,East
+,01-09-2024,Monitor,1172.64,8,George Wilson,West
+535,2023-03-03,Keyboard,1569.96,-1,Alice Johnson,South
+536,2024-06-16,Headphones,1546.35,12,Hannah Moore,North
+one_thousand,2024-08-17,Wireless Mouse,1119.36,21,George Wilson,North
+538,2024-08-29,Tablet,151.09,22,Carlos Martinez,South
+539,2023-10-26,USB-C Cable,1874.25,13,Fatima Khan,East
+540,2024-04-08,USB-C Cable,525.44,7,Carlos Martinez,North
+541,2023-06-09,Wireless Mouse,374.16,15,Fatima Khan,West
+971,2023-05-04,External SSD,797.86,25,Diana Lee,West
+543,2023-11-12,Docking Station,594.04,4,Brian Smith,South
+544,2024-12-03,USB-C Cable,1820.65,23,Alice Johnson,South
+545,2023-12-02,Keyboard,214.30,8,Fatima Khan,West
+546,2024-06-09,Laptop,1494.65,9,Carlos Martinez,North
+547,2024-02-19,Docking Station,1229.76,18,Diana Lee,North
+548,2024-04-18,Wireless Mouse,1771.51,5,Brian Smith,North
+549,2023-03-05,Monitor,300.61,13,Fatima Khan,North
+550,2024-08-19,Tablet,580.52,3,Alice Johnson,North
+551,2023-07-22,Docking Station,1783.32,3,Fatima Khan,North
+552,2023-02-13,Docking Station,125.64,19,George Wilson,West
+553,2024-05-23,Laptop,851.26,14,Carlos Martinez,East
+554,2023-08-08,Keyboard,615.84,15,Carlos Martinez,North
+one_thousand,2024-09-20,Tablet,1363.10,21,Carlos M.,West
+556,2024-02-26,USB C Cable,1061.68,3,,West
+557,28-03-2023,Keybord,450.82,17,Diana Lee,North
+558,2024-01-27,Webcam,1063.11,16,Fatima Khan,East
+559,2024-02-02,USB-C Cable,407.90,11,Diana Lee,North
+560,2023-10-15,Laptop,1781.91,16,Fatima Khan,South
+561,2023-06-13,Wireless Mouse,556.57,8,Ethan Brown,North
+562,2023-08-13,Tablet,1864.61,13,Fatima Khan,South
+563,2023-06-30,Monitor,1309.66,24,Fatima Khan,North
+564,2024-12-21,Webcam,2085.42,19,Carlos M.,South
+565,2024-05-19,External SSD,690.28,16,Alice Johnson,North
+566,2023-02-27,Monitor,1329.63,1,Hannah Moore,North
+292,2023-12-06,Tablet,USD 455.20,5,Fatima Khan,South
+568,2023-11-28,Laptop,62.88,19,Carlos Martinez,North
+569,2024-06-22,Webcam,2113.82,12,George Wilson,North
+570,2023-12-11,USB-C Cable,719.89,6,George Wilson,West
+571,2024-10-26,Webcam,395.63,18,Carlos M.,South
+572,2024-11-12,Tablet,1794.58,-1,Ethan Brown,East
+573,2023-05-11,Keyboard,1607.50,23,George Wilson,North
+574,2023-07-06,Tablet,710.30,20,Diana Lee,North
+575,2024-05-23,USB C Cable,738.60,3,,East
+576,2023-11-24,Keyboard,1405.07,3,Fatima Khan,West
+577,2023-01-12,USB-C Cable,473.16,23,Brian Smith,East
+578,2023-09-20,Wireless Mouse,1589.10,2,George Wilson,West
+579,2024-03-05,Keyboard,unknown,16,George Wilson,East
+580,2024-07-13,Headphones,236.62,16,Diana Lee,South
+581,2024-04-07,Wireless Mouse,1761.24,2,Ethan Brown,North
+582,2023-11-23,USB-C Cable,2094.38,3,Fatima Khan,South
+583,2024-01-20,Keyboard,$0,18,Brian Smith,East
+584,2024-08-31,Tablet,1966.70,23,Alice Johnson,West
+,2024-10-31,Keyboard,N/A,14,Carlos Martinez,North
+586,2023-04-14,Webcam,464.13,7,George Wilson,East
+587,2024-11-07,USB-C Cable,664.82,4,Alice Johnson,West
+588,2024-08-08,External SSD,1850.08,5,Alice Johnson,East
+589,2023-01-04,Headphones,206.47,22,Hannah Moore,South
+590,2023-04-10,Laptop,467.19,21,Ethan Brown,North
+591,2024-04-29,Wireless Mouse,688.75,13,Hannah Moore,West
+592,2024-11-07,USB-C Cable,214.13,18,George Wilson,South
+593,2024-01-15,Headphones,822.14,15,Alice Johnson,East
+594,2024-03-26,Docking Station,590.53,9,Alice Johnson,South
+595,2024-12-14,Wireless Mouse,202.27,12,George Wilson,South
+596,2024-07-20,Laptop,1852.14,17,George Wilson,West
+597,2024-08-09,Monitor,1055.63,3,George Wilson,North
+598,2024-05-29,USB C Cable,USD 1982.49,19,Carlos Martinez,North
+599,2024-04-04,Keyboard,2088.70,6,Diana Lee,South
+600,2023-05-10,Laptop,N/A,22,George Wilson,South
+601,2024-10-04,Keyboard,1837.53,ten,Fatima Khan,North
+602,2023-03-31,Headphones,1230.66,18,Fatima Khan,East
+603,2024-06-16,Docking Station,2019.00,1,George Wilson,North
+604,2024-02-29,Keyboard,338.82,19,Brian Smith,North
+605,2024-07-30,Wireless Mouse,1731.85,18,Fatima Khan,West
+606,2023-09-28,Headphones,1445.71,19,Hannah Moore,North
+607,2023-06-26,USB-C Cable,895.50,20,George Wilson,North
+608,2024-02-10,Webcam,N/A,0,Hannah Moore,East
+609,2024-01-17,Laptop,753.24,10,,East
+610,2024-05-18,Wireless Mouse,2139.91,8,Carlos Martinez,East
+611,2024-03-29,Webcam,603.68,14,Brian Smith,South
+612,2024-03-28,Monitor,2010.85,14,Hannah Moore,East
+613,2023-02-27,External SSD,1744.41,3,Ethan Brown,West
+614,2023-05-19,External SSD,1936.34,1,Carlos Martinez,South
+615,2023-07-25,Laptop,560.14,15,Alice Johnson,East
+616,2024-12-22,Monitor,613.64,15,George Wilson,NORTH
+617,2024-11-28,Laptop,$543.63,16,,South
+618,2024-04-30,Tablet,1219.66,12,Carlos Martinez,East
+619,2024-12-06,Wireless Mouse,637.88,13,Alice Johnson,South
+620,2024-08-08,Monitor,1887.79,21,Diana Lee,South
+621,2023-10-03,Headphones,1136.52,25,Alice Johnson,West
+622,2023-05-16,Keyboard,1328.50,1,Diana Lee,East
+623,2024-09-14,USB-C Cable,USD 1572.34,23,Ethan Brown,West
+624,2024-01-21,Webcam,0,7,Hannah Moore,East
+625,2024-11-24,External SSD,1816.12,13,Brian Smith,North
+626,2024-06-07,Webcam,1241.78,20,Ethan Brown,East
+627,2024-12-01,Wireless Mouse,1067.60,11,Ethan Brown,East
+628,2023-10-11,USB-C Cable,1448.62,21,Ethan Brown,South
+629,19-02-2023,Keybord,1687.56,2,George Wilson,East
+630,2024-11-28,Laptoop,1591.00,21,,East
+631,2023-09-23,Headphones,899.05,24,Alice Johnson,South
+632,2023-12-18,Monitor,1514.61,21,Hannah Moore,East
+994,2024-06-03,USB-C Cable,1862.24,22,Carlos Martinez,East
+634,2023-04-10,Docking Station,294.56,9,Carlos Martinez,East
+635,2024-11-01,Wireless Mouse,500.62,8,Ethan Brown,West
+636,2023-12-06,Webcam,584.32,10,Hannah Moore,North
+637,2024-04-26,Laptop,1908.07,19,Brian Smith,West
+638,2023-07-19,External SSD,276.80,22,George Wilson,East
+639,2024-02-28,Laptop,1917.81,5,Carlos Martinez,South
+640,2023-12-17,Headphones,2172.01,15,Carlos Martinez,East
+641,2023-07-04,Wireless Mouse,1080.36,21,Carlos Martinez,East
+642,2024-10-11,Laptop,25.30,2.5,Diana Lee,South
+A102,2024-08-13,Keyboard,1084.73,25,Brian Smith,South
+644,2024-09-21,Headphones,N/A,13,George Wilson,West
+645,2024-01-28,Laptop,97.43,7,Fatima Khan,North
+646,2023-11-26,External SSD,431.41,22,Alice Johnson,South
+647,2023-08-20,Webcam,696.92,-1,George Wilson,East
+648,2023-06-21,Wireless Mouse,1815.10,10,Ethan Brown,West
+649,2024-06-16,Tablet,1160.20,14,Carlos Martinez,East
+650,2024-05-16,Webcam,1654.00,6,George Wilson,North
+651,2023-08-22,Monitor,1603.86,5,Diana Lee,North
+652,2024-08-26,External SSD,384.23,12,Alice Johnson,West
+653,13-03-2023,USB-C Cable,1700.18,20,Carlos M.,North
+654,2024-11-08,Wireless Mouse,1443.05,1,Alice Johnson,North
+655,2024-03-02,Docking Station,845.85,18,Ethan Brown,West
+656,2024-12-19,Keyboard,464.01,22,Alice Johnson,East
+657,2024-03-06,Wireless Mouse,1462.53,9,Carlos Martinez,West
+658,2023-04-18,External SSD,1585.50,4,Ethan Brown,North
+659,2023-04-19,Docking Station,$449.04,2.5,Ethan Brown,South
+660,2024-01-02,Headphones,660.34,2,Hannah Moore,South
+661,2024-12-05,Docking Station,737.37,1,Alice Johnson,North
+662,2023-04-24,Tablet,1476.81,5,Brian Smith,North
+663,2023-04-14,USB-C Cable,1422.88,15,Ethan Brown,East
+664,2024-04-20,Laptop,233.08,6,Alice Johnson,East
+713,2024-01-04,Webcam,unknown,4,Brian Smith,North
+666,2023-01-10,Keyboard,1464.43,6,Fatima Khan,East
+667,2024-03-24,Tablet,601.26,24,Brian Smith,East
+668,2023-12-17,Keyboard,263.72,13,Hannah Moore,East
+669,2024-01-30,Docking Station,1762.78,21,Carlos Martinez,North
+670,2023-05-16,Laptop,2159.73,6,Brian Smith,West
+671,2024-08-27,Docking Station,1767.95,22,A. Johnson,South
+843,2024-09-17,Headphones,0,20,Alice Johnson,South
+673,2024-05-09,Docking Station,261.77,14,Hannah Moore,North
+674,2023-03-06,USB-C Cable,1446.12,1,Diana Lee,East
+675,2024-06-15,External SSD,-19.99,20,Brian Smith,West
+676,2024-11-08,Monitor,1068.02,five,George Wilson,South
+677,2024-07-25,Tablet,134.23,21,Carlos Martinez,West
+678,2024-05-22,Keyboard,0,16,Fatima Khan,South
+679,2023-12-05,USB-C Cable,125.02,8,George Wilson,West
+680,2023-08-29,Wireless Mouse,1018.12,19,Hannah Moore,North
+681,2024-05-25,Docking Station,705.59,3.0,Alice Johnson,North
+682,2024-02-18,Headphones,93.29,18,Alice Johnson,North
+683,2024-09-10,Tablet,1408.02,17,Diana Lee,
+684,2023-12-16,Webcam,1818.30,8,Hannah Moore,East
+685,2024-07-27,Tablet,1325.89,23,Fatima Khan,West
+686,2023-04-27,Wireless Mouse,1674.11,8,Alice Johnson,East
+687,2023-12-30,USB-C Cable,1211.70,12,Brian Smith,North
+688,2023-06-18,Docking Station,321.88,23,George Wilson,North
+ORD-55,01/28/2023,Tablet,443.09,4,George Wilson,South
+690,2024-04-13,Keybord,1581.18,4,,North
+691,2024-10-10,Tablet,284.23,ten,Hannah Moore,South
+692,2024-05-25,Laptop,1173.85,2,George Wilson,West
+693,2024-06-04,Keyboard,1526.62,6,Carlos Martinez,North
+176,2024-02-01,Tablet,1339.46,11,George Wilson,West
+,2024-09-15,Monitor,612.81,11,Ethan Brown,
+696,2023-05-17,Keyboard,916.85,23,Ethan Brown,East
+697,2024-12-29,External SSD,1397.19,7,Diana Lee,East
+698,2024-12-04,Webcam,2027.80,5,Carlos Martinez,East
+699,2024-12-28,Wireless Mouse,1677.29,18,Hannah Moore,West
+700,2024-11-21,External SSD,-19.99,14,Alice Johnson,North
+701,2023-01-26,Headphones,332.54,22,Alice Johnson,South
+702,2023-10-01,Keyboard,2164.02,22,Ethan Brown,South
+703,2023-03-05,USB-C Cable,460.74,18,Alice Johnson,East
+704,2024-04-08,Wireless Mouse,1361.20,22,Diana Lee,West
+705,2023-09-01,External SSD,1728.71,23,Ethan Brown,North
+706,2024-01-26,Headphones,925.20,22,,North
+A102,2023-01-14,USB-C Cable,free,25,Hannah Moore,South
+708,2024-10-10,Webcam,1664.91,18,Diana Lee,South
+709,2023-10-29,Docking Station,402.68,22,Brian Smith,South
+710,2023-06-27,External SSD,275.79,2,George Wilson,East
+711,2024-07-23,USB-C Cable,299.20,19,Ethan Brown,North
+712,2023-12-05,Docking Station,1565.67,5,Alice Johnson,South
+713,2023-11-27,Tablet,126.12,21,Ethan Brown,West
+714,2024-02-30,External SSD,unknown,23,Fatima Khan,South
+715,2023-07-08,External SSD,163.97,17,Carlos Martinez,West
+716,2024-07-10,External SSD,896.47,12,Diana Lee,South
+717,2024-11-10,Webcam,738.38,10,Diana Lee,West
+718,2024-07-28,Laptop,265.67,12,Hannah Moore,South
+719,06/02/2023,Tablet,2022.16,8,Alice Johnson,East
+720,2024-01-26,Wireless Mouse,858.14,18,Ethan Brown,North
+721,2024-06-13,Webcam,1138.77,17,Hannah Moore,West
+722,2023-02-14,USB-C Cable,1977.75,7,Fatima Khan,North
+723,2023-04-09,Keyboard,2138.01,25,Alice Johnson,North
+724,2023-08-04,Monitor,unknown,3.0,Brian Smith,South
+725,2024-07-04,Headphones,1427.74,3,Carlos Martinez,North
+726,2024-04-15,Webcam,97.78,3.0,Alice Johnson,South
+,2023-09-15,External SSD,168.92,8,Ethan Brown,West
+728,2024-02-02,Docking Station,1392.02,14,Fatima Khan,North
+729,2024-02-03,Wireless Mouse,1183.61,21,Brian Smith,North
+730,2024-12-18,Wireless Mouse,796.57,17,Brian Smith,East
+731,2024-12-03,USB-C Cable,1340.35,10,Hannah Moore,West
+732,2024-02-09,Laptop,1050.66,18,Diana Lee,South
+733,2024-02-05,External SSD,659.53,21,Carlos Martinez,East
+734,2024-11-24,Webcam,2106.90,1,Carlos Martinez,North
+735,2023-02-12,Laptop,unknown,13,Brian Smith,East
+736,2023-08-04,Webcam,477.65,21,Carlos Martinez,South
+737,,Monitor,1362.89,9,Diana-Lee,North
+738,2023-07-05,Tablet,1877.17,25,Hannah Moore,North
+739,2023-10-25,Wireless Mouse,562.75,7,Hannah Moore,East
+740,2024-01-01,USB C Cable,1481.78,-1,Brian Smith,East
+741,2024-09-26,Wireless Mouse,1981.76,11,Hannah Moore,West
+742,2023-12-03,Tablet,1455.84,23,Carlos Martinez,
+743,2023-11-20,Moniter,383.48,11,Diana Lee,South
+744,2024-12-30,Headphones,619.55,12,Carlos Martinez,East
+745,2024-05-06,Docking Station,$988.11,25,Ethan Brown,West
+746,2024-07-18,Wireless Mouse,399.06,20,Brian Smith,East
+747,2023-05-24,External SSD,free,24,Brian Smith,North
+748,2023-01-20,External SSD,1395.10,19,George Wilson,South
+749,2023-02-07,External SSD,584.45,18,Hannah Moore,South
+750,2024-01-10,Headphones,502.93,25,A. Johnson,South
+751,2024-04-20,External SSD,1130.25,13,Fatima Khan,North
+752,2024-11-09,Monitor,1867.84,-1,Carlos Martinez,South
+753,2024-04-01,Keyboard,USD 406.43,19,Carlos Martinez,West
+754,2024-01-03,Laptop,493.12,2.5,Diana Lee,North
+755,2023-09-28,Webcam,526.33,22,,East
+756,2024-02-02,Docking Station,2020.62,2,Alice Johnson,East
+,2023-04-16,External SSD,-19.99,9,Ethan Brown,South
+758,2024-01-21,Headphones,813.17,21,Brian Smith,East
+759,2024-01-21,Monitor,0,12,Fatima Khan,West
+760,2024-05-08,Tablet,29.42,5,Hannah Moore,South
+761,2023-08-24,Wireless Mouse,1139.27,9,Diana Lee,South
+,2023-07-11,Keyboard,806.46,23,Brian Smith,South
+763,2024-02-29,Moniter,1588.76,0,Hannah Moore,West
+ORD-55,2023-08-04,Tablet,367.32,14,Alice Johnson,South
+765,2023-02-14,Keyboard,1268.07,6,Carlos Martinez,North
+766,2024-08-09,Keyboard,-19.99,9,Carlos Martinez,West
+767,2024-09-05,Tablet,1408.21,24,Ethan Brown,North
+768,2023-08-10,Docking Station,1340.26,16,Hannah Moore,South
+769,2023-08-13,Headphones,$1327.83,-1,Carlos Martinez,East
+770,2023-06-21,Webcam,2030.34,20,Brian Smith,South
+771,2024-01-23,Headphones,303.89,N/A,Diana Lee,
+772,2023-06-03,Tablet,225.41,16,Alice Johnson,North
+773,2023-04-06,Docking Station,1455.77,20,Alice Johnson,West
+774,2024-06-18,Headphones,824.27,2,George Wilson,South
+775,2024-05-08,Headphones,780.88,24,Brian Smith,West
+776,2023-05-18,USB-C Cable,1057.55,8,Brian Smith,East
+777,2024-09-04,External SSD,907.89,7,Alice Johnson,North
+,2024-08-14,External SSD,272.46,1,George Wilson,South
+779,2024-12-05,Webcam,908.33,4,Carlos Martinez,West
+780,2024-10-29,Tablet,569.19,2.5,George Wilson,West Coast
+781,2024-09-18,USB-C Cable,2182.08,13,Diana Lee,West
+782,2024-07-19,External SSD,1069.19,12,Hannah Moore,East
+783,2023-11-11,Tablet,N/A,23,George Wilson,South
+784,2024-11-06,Wireless Mouse,1648.97,15,Carlos Martinez,North
+785,2023-08-08,External SSD,890.23,11,Alice Johnson,South
+786,2024-02-03,Laptop,1772.55,3.0,Hannah Moore,West
+787,2023-04-01,Wireless Mouse,589.86,12,Brian Smith,North
+788,2024-01-29,Headphones,1356.51,17,Ethan Brown,North
+789,13/13/2023,Docking Station,974.15,7,,South
+790,2023-02-04,Tablet,1130.55,23,Diana Lee,South
+791,2024-11-21,Laptop,801.03,21,Alice Johnson,South
+792,2023-03-30,USB-C Cable,1718.59,12,George Wilson,West
+793,10/05/2024,Monitor,N/A,24,Brian Smith,North
+794,2024-07-16,USB-C Cable,-19.99,18,Fatima Khan,East
+795,2023-10-11,Monitor,1339.90,7,Hannah Moore,West
+796,2024-08-11,Laptop,585.52,14,Brian Smith,North
+797,2024-05-30,USB-C Cable,757.83,4,Ethan Brown,East
+798,2024-12-11,Docking Station,2125.83,19,Hannah Moore,South
+799,2023-12-14,Docking Station,1504.28,19,Alice Johnson,West
+800,2023-04-30,USB-C Cable,162.61,21,Diana Lee,South
+,2023-11-20,Headphones,2102.65,17,Alice Johnson,East
+802,2023-09-12,USB-C Cable,218.23,22,Fatima Khan,North
+ORD-55,2024-07-21,Keyboard,1056.27,12,Diana Lee,East
+804,2023-07-07,Monitor,1105.31,7,Diana Lee,South
+805,2023-09-29,Monitor,515.82,N/A,Fatima Khan,West Coast
+806,2023-04-20,Moniter,unknown,22,Hannah Moore,North
+807,2024-07-08,Laptop,1867.90,12,Fatima Khan,West
+808,2024-08-11,USB-C Cable,1087.41,25,Ethan Brown,West
+809,2023-08-16,Tablet,295.22,17,George Wilson,West
+,2024-07-07,Laptop,1112.91,13,Diana-Lee,West
+811,2023-05-04,External SSD,1020.25,23,Alice Johnson,North
+812,2024-11-21,Monitor,844.05,4,Fatima Khan,East
+one_thousand,2024-09-19,USB-C Cable,423.93,9,Diana Lee,East
+814,2024-04-27,Tablet,764.67,6,Hannah Moore,West
+,2023-08-04,Headphones,1546.06,12,Fatima Khan,
+816,2023-10-14,Docking Station,408.06,5,Diana Lee,North
+817,2023-10-04,Laptoop,$1228.42,13,Diana Lee,South
+818,2023-06-03,Docking Station,1775.39,6,George Wilson,West
+819,2023-05-18,External SSD,1181.75,11,Hannah Moore,East
+820,30-03-2024,External SSD,1890.83,2,George Wilson,North
+821,2024-12-08,Keyboard,USD 146.18,9,Hannah Moore,North
+822,2024-04-05,Webcam,582.60,12,Ethan Brown,East
+823,2023-01-21,Headphones,279.90,22,Diana Lee,South
+824,,Webcam,725.32,3.0,Hannah Moore,West
+481,2023-03-22,Headphones,1355.86,15,Carlos Martinez,South
+A102,2024-10-17,Webcam,936.67,20,George Wilson,North
+827,2023-03-23,Keyboard,765.82,11,Fatima Khan,East
+828,2024-12-28,USB-C Cable,1337.77,13,Ethan Brown,West
+829,2024-01-07,Tablet,1153.24,15,George Wilson,South
+830,2023-07-08,Laptop,288.21,8,Ethan Brown,North
+831,2023-08-04,Keyboard,882.54,4,Brian Smith,West
+832,2024-07-15,Laptop,72.61,13,Brian Smith,North
+833,2023-09-26,Tablet,354.27,21,George Wilson,East
+834,2023-08-23,Monitor,1626.64,15,Carlos Martinez,South
+835,2024-06-23,Keyboard,77.43,22,Fatima Khan,East
+836,2024-05-02,Docking Station,2145.33,18,Ethan Brown,West
+837,2023-05-19,External SSD,401.83,20,Hannah Moore,West
+838,2024-06-20,External SSD,691.61,12,Hannah Moore,South
+839,2023-04-02,Docking Station,687.69,14,Ethan Brown,South
+840,2023-11-07,Laptop,15.20,25,Carlos Martinez,East
+841,2023-10-21,Docking Station,USD 1184.19,23,A. Johnson,West
+842,2023-11-03,Laptop,1688.42,10,Diana Lee,North
+843,2024-07-15,Webcam,427.03,18,George Wilson,West
+844,2023-09-13,Keybord,1577.14,ten,George Wilson,West
+,2023-08-14,USB-C Cable,188.07,-1,Diana Lee,East
+846,2023-10-19,External SSD,unknown,N/A,Diana Lee,North
+ORD-55,2023-07-06,Keyboard,0,21,Hannah Moore,West
+A102,2023-10-06,Tablet,1090.01,11,Alice Johnson,South
+849,2023-02-20,External SSD,63.36,4,Carlos M.,East
+850,2023-05-09,Docking Station,1603.73,8,Brian Smith,South
+851,2024-02-30,Docking Station,489.56,N/A,Ethan Brown,West
+852,2024-01-16,Docking Station,1537.80,2,Fatima Khan,North
+853,2023-05-30,Laptop,597.31,13,Brian Smith,West
+854,2023-07-05,Monitor,1972.10,9,George Wilson,North
+855,2023-05-05,Monitor,855.78,15,Diana Lee,North
+856,2023-07-23,Docking Station,1621.68,4,Diana Lee,West
+857,2024-02-03,USB-C Cable,2060.63,6,Alice Johnson,North
+858,2023-09-17,Docking Station,1410.17,7,Fatima Khan,North
+859,2024-11-13,Monitor,2141.60,8,George Wilson,East
+860,2023-01-16,Keyboard,1750.74,19,Brian Smith,West
+,2023-09-06,Laptop,free,19,Hannah Moore,South
+862,2024-01-16,Wireless Mouse,558.46,16,Brian Smith,East
+863,2024-10-02,Laptop,145.61,21,Carlos Martinez,North
+864,2023-05-09,Docking Station,523.39,18,Fatima Khan,West
+A102,2023-07-17,Laptop,1521.01,12,Carlos Martinez,East
+,2023-02-10,Docking Station,1558.98,18,Ethan Brown,West
+867,2023-07-14,Tablet,422.78,12,Fatima Khan,West
+868,2023-10-09,Tablet,2013.13,18,Carlos Martinez,North
+869,2024-06-27,Keyboard,996.90,9,Fatima Khan,West
+870,2023-01-01,External SSD,843.21,6,Alice Johnson,East
+871,2024-09-27,Monitor,715.72,3,George Wilson,South
+872,2024-06-20,Docking Station,1688.13,5,Ethan Brown,East
+873,2024-02-24,Webcam,256.36,17,Brian Smith,North
+874,2023-05-13,Keyboard,1923.58,7,Brian Smith,West
+875,2023-07-16,Wireless Mouse,0,21,George Wilson,West
+876,2024-06-22,Tablet,USD free,9,Alice Johnson,East
+877,2023-08-15,Tablet,1583.49,1,Diana Lee,West
+878,2023-03-23,Docking Station,1765.23,2,Fatima Khan,West
+879,2024-01-13,Laptop,1814.66,9,Alice Johnson,North
+880,2023-11-08,Wireless Mouse,2078.96,17,Brian Smith,North
+881,2023-08-25,External SSD,856.95,7,Diana Lee,South
+882,2024-07-25,External SSD,922.18,4,Fatima Khan,West
+883,2024-12-20,Headphones,1943.97,6,Carlos Martinez,West
+884,2024-05-31,USB C Cable,-19.99,18,Hannah Moore,East
+885,2023-11-19,External SSD,2181.35,11,Fatima Khan,West
+886,2024-10-10,Headphones,1820.15,11,Diana Lee,South
+887,2024-01-20,External SSD,2038.63,9,Fatima Khan,West
+A102,2024-04-03,Headphones,15.43,3.0,Ethan Brown,North
+889,2024-06-14,Keyboard,free,N/A,Alice Johnson,East
+890,2023-08-16,Monitor,1884.75,1,Ethan Brown,South
+891,2023-04-07,Laptop,1020.91,5,Carlos Martinez,East
+892,2024-01-11,Tablet,560.94,9,Ethan Brown,North
+893,2024-08-07,Headphones,1258.41,7,Brian Smith,East
+894,2024-05-09,Keyboard,1081.88,23,Brian Smith,East
+895,2023-02-08,Tablet,848.68,25,Alice Johnson,East
+896,2023-12-23,Headphones,925.10,4,Diana Lee,North
+897,2024-10-11,Headphones,0,17,Alice Johnson,East
+898,2024-07-06,Tablet,341.83,17,Diana Lee,South
+899,2023-02-21,Headphones,2136.72,25,Brian Smith,South
+900,2024-03-18,USB-C Cable,1733.21,5,Carlos Martinez,East
+901,2023-03-26,Docking Station,1263.60,2,George Wilson,East
+902,2023-03-29,Headphones,1111.48,25,Carlos Martinez,South
+903,2024-05-07,External SSD,447.87,13,Diana Lee,South
+904,2023-09-06,Wireless Mouse,596.77,14,Fatima Khan,North
+905,2023-04-26,Headphones,940.44,12,Diana Lee,East
+906,2023-12-19,Tablet,1447.07,25,Ethan Brown,South
+907,2023-12-25,Tablet,1810.16,15,Carlos Martinez,West
+908,2023-02-15,Monitor,451.31,12,Carlos Martinez,North
+281,2023-04-26,Laptop,546.06,20,,East
+910,2023-01-15,Webcam,1530.94,4,Ethan Brown,West
+141,2024-04-27,Laptop,740.15,24,A. Johnson,South
+912,not_a_date,External SSD,1654.53,18,Hannah Moore,South
+913,2024-12-12,Laptop,837.89,22,Alice Johnson,East
+914,2023-06-24,Laptop,635.57,23,Ethan Brown,North
+915,2024-04-21,Laptop,160.52,22,Ethan Brown,East
+916,2023-04-21,Laptop,654.10,21,George Wilson,South
+917,2024-01-25,External SSD,2148.90,4,Fatima Khan,West
+918,2024-09-03,External SSD,207.33,7,Hannah Moore,North
+919,2023-02-10,Monitor,2030.16,10,Fatima Khan,West
+,2024-02-07,Keyboard,55.14,3.0,Fatima Khan,East
+921,2024-10-02,USB-C Cable,-19.99,17,Ethan Brown,North
+922,2024-10-02,USB-C Cable,1934.91,1,Ethan Brown,South
+923,2023-06-05,Webcam,1975.33,22,Carlos Martinez,North
+924,2024-01-27,USB C Cable,2113.92,3.0,Diana Lee,West
+925,2023-09-04,Tablet,N/A,N/A,Fatima Khan,West
+926,2024-07-09,Keyboard,466.76,5,Diana Lee,South
+,not_a_date,External SSD,2002.39,14,Carlos Martinez,South
+,2023-11-22,Wireless Mouse,1232.79,24,Brian Smith,South
+929,2023-11-22,Keyboard,1603.67,25,Fatima Khan,West
+930,2024-02-26,USB-C Cable,982.96,21,Ethan Brown,South
+931,2023-07-12,Wireless Mouse,$302.43,1,Ethan Brown,South
+932,2024-09-02,Monitor,519.54,1,Fatima Khan,North
+933,2024-12-05,Docking Station,307.98,20,Hannah Moore,East
+934,2023-07-08,Headphones,1088.81,N/A,Carlos Martinez,South
+935,2023-08-20,Laptop,907.77,1,Ethan Brown,West
+936,2023-08-16,Monitor,1670.74,3,Carlos Martinez,West
+937,2024-09-23,Docking Station,1517.98,15,Diana Lee,West
+938,2024-02-19,Laptop,1343.33,13,Fatima Khan,West
+939,2024-09-18,Tablet,1312.47,17,Alice Johnson,North
+940,2024-04-07,Docking Station,1822.02,2,Diana Lee,West
+941,2023-02-10,External SSD,861.46,25,Alice Johnson,South
+942,2023-10-26,Docking Station,884.72,10,Ethan Brown,West
+943,09-10-2023,Headphones,658.31,2,Carlos Martinez,West
+944,2024-10-23,Docking Station,212.61,17,Brian Smith,South
+945,2024-08-22,External SSD,310.65,14,Fatima Khan,West
+946,2023-01-26,Keyboard,1006.29,23,Diana Lee,
+947,2023-04-03,USB-C Cable,723.10,21,Carlos Martinez,North
+948,2023-04-04,Wireless Mouse,1558.11,21,Fatima Khan,North
+949,2024-06-20,Headphones,1603.22,17,Carlos Martinez,West
+950,2024-07-17,Headphones,110.93,6,Fatima Khan,South
+951,2023-06-16,Keybord,405.82,ten,Alice Johnson,West
+A102,2023-11-12,USB-C Cable,1610.40,15,,South
+953,2023-05-01,Keyboard,2113.55,1,Ethan Brown,North
+954,2024-04-14,Docking Station,1884.07,18,Alice Johnson,West
+955,2023-09-01,Monitor,1301.66,16,Hannah Moore,West
+956,2024-03-28,Wireless Mouse,1328.66,1,Diana Lee,East
+957,2024-09-26,External SSD,1806.97,7,Alice Johnson,South
+958,2023-06-01,Laptop,1442.41,2,Carlos Martinez,North
+959,2024-11-14,Tablet,1846.06,10,Fatima Khan,North
+960,2023-02-20,Wireless Mouse,926.05,6,Carlos Martinez,East
+,2024-09-17,Tablet,1265.44,18,Carlos Martinez,West
+962,2024-02-30,Webcam,2050.28,3,Ethan Brown,East
+963,2024-01-13,Headphones,1807.28,25,George Wilson,North
+964,2023-10-27,Docking Station,308.98,23,Ethan Brown,East
+A102,2024-06-23,Headphones,1161.35,3.0,Diana Lee,North
+966,2023-04-22,Tablet,1609.46,21,Brian Smith,West
+967,2024-12-06,Tablet,2055.55,23,Ethan Brown,West
+968,2024-09-15,Webcam,582.36,19,Fatima Khan,South
+969,2024-09-21,Tablet,1099.63,24,Carlos M.,West
+970,2023-07-04,Tablet,523.50,10,Diana Lee,North
+971,2023-05-02,Laptop,1030.78,4,Diana Lee,West
+972,2024-02-28,Laptop,744.34,18,Diana Lee,North
+973,2024-10-17,Monitor,1522.69,9,Brian Smith,East
+974,2023-11-04,External SSD,1216.74,0,Alice Johnson,West Coast
+975,2024-12-03,Webcam,760.88,24,Alice Johnson,South
+976,2023-07-18,Webcam,1836.91,22,Hannah Moore,West
+977,2023-02-06,Keyboard,N/A,3.0,Hannah Moore,East
+978,2024-04-18,Headphones,2042.22,2,Ethan Brown,East
+979,2024-07-22,External SSD,55.90,19,Fatima Khan,East
+980,2023-03-09,Keyboard,627.81,1,Fatima Khan,West
+781,2024-10-03,External SSD,unknown,19,George Wilson,South
+982,2024-09-01,Wireless Mouse,1904.14,25,Ethan Brown,East
+983,2024-12-27,Laptop,608.22,3,Hannah Moore,South
+984,2024-01-16,Laptoop,unknown,10,Diana Lee,East
+985,2023-06-29,Wireless Mouse,832.66,2,Diana Lee,North
+986,2024-03-30,External SSD,69.48,16,Carlos Martinez,South
+987,2023-12-15,Docking Station,N/A,17,Ethan Brown,East
+988,2023-05-27,Wireless Mouse,N/A,five,Carlos Martinez,South
+989,2023-02-07,Docking Station,861.88,17,Brian Smith,North
+,2023-11-15,Laptop,1516.21,3.0,Brian Smith,East
+991,2024-04-23,Laptop,240.28,25,Ethan Brown,North
+992,2024-08-14,USB-C Cable,1410.89,7,Fatima Khan,South
+A102,2023-07-17,USB-C Cable,619.48,11,Hannah Moore,North
+994,2023-10-07,Keyboard,359.13,4,Alice Johnson,North
+995,2023-07-31,External SSD,780.45,11,Ethan Brown,South
+996,2024-12-22,USB-C Cable,1269.37,6,Brian Smith,E
+997,05/12/2023,Webcam,1196.16,2,Carlos Martinez,North
+998,2024-04-27,Laptop,246.45,0,,West
+999,2024-02-06,Keyboard,1554.72,19,Hannah Moore,E
+1000,2023-11-16,Webcam,1801.11,23,Brian Smith,West
