@@ -19,3 +19,18 @@ CREATE TABLE bronze.gpt_orders_123
     sales_person NVARCHAR(50),
     region NVARCHAR(50)
 )
+
+/* Since we will not be updating the tables in this project,
+the BULK INSERT operation becomes part of the DDL as we will 
+not be using it in the silver layer query.*/
+  
+BULK INSERT bronze.gpt_orders_123
+FROM '/var/opt/mssql/data/Orders_123.csv'
+WITH (
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0a'
+);
+
+SELECT*
+FROM bronze.gpt_orders_123
